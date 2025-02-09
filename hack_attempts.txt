@@ -1,0 +1,6 @@
+Hello, I am concerned to report that there has been a security breach attempt. I have collected the following information about the breach attempt:
+The Hacker knows the following information about the following people{'Friend': 'Birthday', 'Father': 'College', 'User': 'College', 'Mother': 'College'}
+I have calculated the hacker index,
+this is a ratio of amount of personal data stored in your database to the amount of personal data I detected from the password attempts by the intruder,
+I have found this number to be 0.22
+Intruder knows a small amount of information about you, you may wish to review your passwords
