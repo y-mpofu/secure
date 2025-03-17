@@ -92,9 +92,7 @@ def secure():
                 if index > 0.6 and (index < 0.85):
                     file1.write('Intruder knows an alarmingly large amount of you personl data, you might want to look more into securing your information')
                 if index > 0.85:
-                    file1.write('Intruder is closely familiar with you, you should take great caution with your privacy')
-    
-        
+                    file1.write('Intruder is closely familiar with you, you should take great caution with your privacy')   
     
     return 1
 
